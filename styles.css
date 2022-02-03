@@ -1,0 +1,53 @@
+body {
+  background: url(/green.jpeg) fixed center;
+}
+header {
+  background-color: rgb(183, 240, 114);
+  color: rgb(3, 56, 6);
+  padding: 0.2em;
+  width: 3000px;
+  text-align: left;
+  margin: auto;
+}
+footer {
+  background-color: rgb(183, 240, 114);
+  color: rgb(3, 56, 6);
+  padding: 0.4em;
+  width: 3000px;
+  text-align: left;
+  font-weight: bold;
+  letter-spacing: 5px;
+  margin: auto;
+}
+.fas {
+  display: inline-block;
+  text-indent: 10px;
+}
+nav ul li {
+  display: inline-block;
+  text-indent: 10px;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a {
+  text-decoration: underline;
+  font-weight: 900;
+  color: black;
+  font-weight: 900;
+}
+img {
+  width: 1200px;
+  height: 500px;
+}
+label {
+  color: green;
+  font-weight: bold;
+}
